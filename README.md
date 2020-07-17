@@ -1,21 +1,21 @@
-### Hi there, I'm [EdisonLeeeee!](https://github.com/EdisonLeeeee) 👋.  <img src="https://raw.githubusercontent.com/8bithemant/8bithemant/master/svg/pronouns/hehim.svg" >
-
-
+### Hi there, I'm [EdisonLeeeee!](https://github.com/EdisonLeeeee) 👋. 
 
 <img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
 <br />
 
 ### I'm 25 years old Student from SYSU, China.
 
-#### - 🥀 Learning Python
+#### - 🥀 Learning Python, Machine Learning
 
-#### - 💬 Connect? Here 👉🏼lijt55@mail2.sysu.edu.cn
+#### - 😼 Research on
 
++ Graph Representation Learning
++ Graph Adversarial Learning
++ Recommender System
 
-<br />
+#### - Project
++ ⛄ [GraphGallery](https://github.com/EdisonLeeeee/Graphgallery): Geometric machine learning using TensorFlow
 
-
-**I am Into , 🙏**
-
-**Machine Learning -- Graph Adversarial Learning, Graph Representation Learning, Recommender System, ...😼**
-<br />
+#### - 💬 Connect? Here 👉🏼
++ lijt55@mail2.sysu.edu.cn
++ cnljt@outlook.com
