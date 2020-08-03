@@ -5,7 +5,7 @@
 
 ### I'm 25 years old Student from SYSU, China.
 
-#### - 🥀 Learning Python, Machine Learning
+#### - 🥀 Learning Python, Machine Learning, 💕TensorFlow
 
 #### - 😼 Research on
 
@@ -14,7 +14,8 @@
 + Recommender System
 
 #### - Project
-+ ⛄ [GraphGallery](https://github.com/EdisonLeeeee/Graphgallery): Geometric machine learning using TensorFlow
++ ⛄ [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): Geometric machine learning using TensorFlow 2.x
++ ⚔ [GraphAdv](https://github.com/EdisonLeeeee/GraphAdv): Geometric *Adversarial* machine learning using TensorFlow 2.x
 
 #### - 💬 Connect? Here 👉🏼
 + lijt55@mail2.sysu.edu.cn
