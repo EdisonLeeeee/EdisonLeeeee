@@ -13,7 +13,7 @@
 + Recommender System
 
 #### - Project
-+ ⛄ [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): Geometric machine learning using TensorFlow 2.x
++ ⛄ [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): Geometric machine learning using TensorFlow 2.x and PyTorch
 + ⚔ [GraphAdv](https://github.com/EdisonLeeeee/GraphAdv): Geometric *Adversarial* machine learning using TensorFlow 2.x
 
 #### - 💬 Connect? Here 👉🏼
