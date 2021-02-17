@@ -1,6 +1,6 @@
 ### Hi there, I'm [EdisonLeeeee!](https://github.com/EdisonLeeeee) 👋. 
 
-<img align="right" height="270px" width="450px" alt="GIF" src="https://media.giphy.com/media/paVD7uL8uz6us/giphy.gif" />
+<img align="right" height="270px" width="450px" alt="GIF" src="https://github.com/EdisonLeeeee/GraphGallery/blob/master/imgs/graphgallery.svg" />
 
 ### I'm a 25 years old Student from SYSU, China.
 
