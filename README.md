@@ -13,7 +13,7 @@
 
 + Graph Representation Learning
 + Graph Adversarial Learning
-+ Recommender System
++ Trustworthy Graph Learning
 
 #### - 💗 Project
 + [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): A gallery for benchmarking Graph Neural Networks (GNNs)
