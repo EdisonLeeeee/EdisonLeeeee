@@ -14,11 +14,11 @@
 + Graph Representation Learning
 + Trustworthy Graph Learning
 
-<img align="right" height="130px" width="400px" alt="GIF" src="https://github.com/EdisonLeeeee/GraphWar/blob/master/imgs/graphwar.png" />
+<img align="right" height="130px" width="400px" alt="GIF" src="https://github.com/EdisonLeeeee/GraphWar/blob/master/imgs/greatx.png" />
 
 #### - Project
 + [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): A gallery for benchmarking Graph Neural Networks (GNNs)
-+ [GraphWar](https://github.com/EdisonLeeeee/GraphWar): A graph adversarial learning toolbox based on PyTorch and PyTorch Geometric.
++ [GREATX](https://github.com/EdisonLeeeee/GREATX): A graph reliability toolbox based on PyTorch and PyTorch Geometric
 
 
 
