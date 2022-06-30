@@ -14,7 +14,7 @@
 + Graph Representation Learning
 + Trustworthy Graph Learning
 
-<img align="right" height="130px" width="400px" alt="GIF" src="https://github.com/EdisonLeeeee/GraphWar/blob/master/imgs/greatx.png" />
+<img align="right" height="110px" width="400px" alt="GIF" src="https://github.com/EdisonLeeeee/GraphWar/blob/master/imgs/greatx.png" />
 
 #### - Project
 + [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): A gallery for benchmarking Graph Neural Networks (GNNs)
