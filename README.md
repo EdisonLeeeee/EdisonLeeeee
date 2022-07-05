@@ -1,7 +1,7 @@
 ### Hi there, I'm [EdisonLeeeee!](https://github.com/EdisonLeeeee) 👋
 
 
-<img align="right" height="230px" width="420px" alt="GIF" src="https://github.com/EdisonLeeeee/GraphGallery/blob/master/imgs/graphgallery.svg" />
+<img align="right" height="230px" width="420px" alt="graphgallery" src="https://github.com/EdisonLeeeee/GraphGallery/blob/master/imgs/graphgallery.svg" />
 
 #### - 😎 About me
 - Sun Yat-sen University, China
@@ -14,12 +14,11 @@
 + Graph Representation Learning
 + Trustworthy Graph Learning
 
-<img align="right" height="110px" width="400px" alt="GIF" src="https://github.com/EdisonLeeeee/GraphWar/blob/master/imgs/greatx.png" />
+<img align="right" height="110px" width="400px" alt="greatx" src="https://github.com/EdisonLeeeee/GraphWar/blob/master/imgs/greatx.png" />
 
 #### - Project
 + [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): A gallery for benchmarking Graph Neural Networks (GNNs)
 + [GREATX](https://github.com/EdisonLeeeee/GREATX): A graph reliability toolbox based on PyTorch and PyTorch Geometric
-
 
 
 #### - 💨 News
