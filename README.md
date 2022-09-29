@@ -22,6 +22,7 @@
 
 
 #### - 💨 News
++ 09/23/2022: Joined PyG team.
 + 08/15/2022:  We give a tutorial about “[Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection](https://ai.tencent.com/ailab/ml/twgl/)” in *KDD* 2022 with our collaborators.
 + 04/21/2022: [Spiking Graph Convolutional Networks](https://arxiv.org/abs/2205.02767) has been accepted for presentation at *IJCAI* 2022
 + 04/30/2021: [Understanding Structural Vulnerability in Graph Convolutional Networks](https://www.ijcai.org/proceedings/2021/310) has been accepted for presentation at *IJCAI* 2021
