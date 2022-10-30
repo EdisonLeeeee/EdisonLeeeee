@@ -20,11 +20,11 @@
 
 #### - Project
 + [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): Gallery for benchmarking graph neural networks
-+ [GreatX](https://github.com/EdisonLeeeee/GreatX): Graph reliability toolbox based on PyTorch and PyTorch Geometric
-+ [Mooon](https://github.com/EdisonLeeeee/Mooon): Graph data augmentation library based on PyTorch and PyTorch Geometric
++ [GreatX](https://github.com/EdisonLeeeee/GreatX): Graph reliability toolbox based on PyTorch Geometric
++ [Mooon](https://github.com/EdisonLeeeee/Mooon): Graph data augmentation library based on PyTorch Geometric
 
 
-<img align="right" height="140px" width="400px" alt="mooon" src="https://github.com/EdisonLeeeee/GMoon/blob/master/imgs/mooon.png" />
+<img align="right" height="120px" width="400px" alt="mooon" src="https://github.com/EdisonLeeeee/GMoon/blob/master/imgs/mooon.png" />
 
 #### - 💨 News
 + Sep 23, 2022: Joined PyG team.
