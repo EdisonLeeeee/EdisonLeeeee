@@ -24,7 +24,7 @@
 + [Mooon](https://github.com/EdisonLeeeee/Mooon): Graph data augmentation library based on PyTorch Geometric
 
 
-<img align="right" height="120px" width="400px" alt="mooon" src="https://github.com/EdisonLeeeee/GMoon/blob/master/imgs/mooon.png" />
+<img align="right" height="110px" width="400px" alt="mooon" src="https://github.com/EdisonLeeeee/GMoon/blob/master/imgs/mooon.png" />
 
 #### - 💨 News
 + Sep 23, 2022: Joined PyG team.
