@@ -21,15 +21,13 @@
 #### - Project
 + [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): Gallery for benchmarking graph neural networks
 + [GreatX](https://github.com/EdisonLeeeee/GreatX): Graph reliability toolbox based on PyTorch Geometric
-+ [Mooon](https://github.com/EdisonLeeeee/Mooon): Graph data augmentation library based on PyTorch Geometric
-
++ [Mooon](https://github.com/EdisonLeeeee/Mooon) (ongoing): Graph data augmentation library based on PyTorch Geometric
 
 <img align="right" height="110px" width="400px" alt="mooon" src="https://github.com/EdisonLeeeee/GMoon/blob/master/imgs/mooon.png" />
 
 #### - 💨 News
 + Sep 23, 2022: Joined PyG team.
 + Aug 15, 2022: We gave a tutorial about “[Trustworthy Graph Learning: Reliability, Explainability, and Privacy Protection](https://ai.tencent.com/ailab/ml/twgl/)” in *KDD* 2022 with our collaborators.
-
 
 <details>
 <summary><b>Expand to see more...</b></summary>
