@@ -1,8 +1,6 @@
 ### Hi there, I'm [EdisonLeeeee!](https://github.com/EdisonLeeeee) 👋
 
 
-<img align="right" height="230px" width="420px" alt="graphgallery" src="https://github.com/EdisonLeeeee/GraphGallery/blob/master/imgs/graphgallery.svg" />
-
 #### - 😎 About me
 - Sun Yat-sen University, China
 - Major in **Software Engineering**
@@ -15,15 +13,11 @@
 + Graph Representation Learning
 + Trustworthy Graph Learning
 
-<img align="right" height="110px" width="400px" alt="greatx" src="https://github.com/EdisonLeeeee/GraphWar/blob/master/imgs/greatx.png" />
-
 
 #### - Project
 + [GraphGallery](https://github.com/EdisonLeeeee/GraphGallery): Gallery for benchmarking graph neural networks
-+ [GreatX](https://github.com/EdisonLeeeee/GreatX): Graph reliability toolbox based on PyTorch Geometric
++ [GreatX](https://github.com/EdisonLeeeee/GreatX) (ongoing): Graph reliability toolbox based on PyTorch Geometric
 + [Mooon](https://github.com/EdisonLeeeee/Mooon) (ongoing): Graph data augmentation library based on PyTorch Geometric
-
-<img align="right" height="110px" width="400px" alt="mooon" src="https://github.com/EdisonLeeeee/GMoon/blob/master/imgs/mooon.png" />
 
 #### - 💨 News
 - Nov 19, 2022: [Scaling Up Dynamic Graph Representation Learning via Spiking Neural Networks](https://arxiv.org/abs/2208.10364) has been accepted for presentation at *AAAI* 2023
