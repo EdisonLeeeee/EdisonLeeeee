@@ -28,6 +28,8 @@
 + Temporal Graph Learning
   + [STEP](https://github.com/EdisonLeeeee/STEP)
   + [GraphSSM](https://github.com/EdisonLeeeee/GraphSSM)
+  + [LasTGL](https://github.com/EdisonLeeeee/LasTGL)
+  + [SpikeNet](https://github.com/EdisonLeeeee/SpikeNet)
 + Heterogeneous Graph Learning
   + [Hetero2Net](https://github.com/EdisonLeeeee/Hetero2Net)
 
