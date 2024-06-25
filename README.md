@@ -10,9 +10,26 @@
 
 #### - Research on
 
-+ Graph Representation Learning
++ Graph Contrastive Learning
+  + [SpikeGCL](https://github.com/EdisonLeeeee/SpikeGCL)
+  + [BlockGCL](https://github.com/EdisonLeeeee/BlockGCL)
+  + [MAGI](https://github.com/EdisonLeeeee/MAGI)
 + Trustworthy Graph Learning
-+ Graph Self-supervised Learning
+  + [MedianGCN](https://github.com/EdisonLeeeee/MedianGCN)
+  + [SGA](https://github.com/EdisonLeeeee/SGAttack)
+  + [SAT](https://github.com/EdisonLeeeee/SAT)
+  + [GUARD](https://github.com/EdisonLeeeee/GUARD)
++ Masked Graph Autoencoders
+  + [MaskGAE](https://github.com/EdisonLeeeee/SpikeGCL)
+  + [lrGAE](https://github.com/EdisonLeeeee/lrGAE)
++ Spiking Neural Networks
+  + [SpikeNet](https://github.com/EdisonLeeeee/SpikeNet)
+  + [SpikeGCL](https://github.com/EdisonLeeeee/SpikeGCL)
++ Temporal Graph Learning
+  + [STEP](https://github.com/EdisonLeeeee/STEP)
+  + [GraphSSM](https://github.com/EdisonLeeeee/GraphSSM)
++ Heterogeneous Graph Learning
+  + [Hetero2Net](https://github.com/EdisonLeeeee/Hetero2Net)
 
 
 #### - Project
