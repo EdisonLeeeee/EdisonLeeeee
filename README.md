@@ -2,10 +2,10 @@
 
 
 #### - 😎 About me
-- Sun Yat-sen University, China
+- Sun Yat-sen University, Guangzhou, China
 - Major in Software Engineering
 - Learning Python, Machine Learning
-- TensorFlow and PyTorch Enthusiast
+- PyTorch Enthusiast
 
 
 #### - Research on
