@@ -2,7 +2,7 @@
 
 
 #### - 😎 About me
-- Sun Yat-sen University, Guangzhou, China
+- Xiamen University, Xiamen, China
 - Major in Software Engineering
 - Learning Python, Machine Learning
 - PyTorch Enthusiast
